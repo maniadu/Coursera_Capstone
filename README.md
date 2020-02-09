@@ -1,2 +1,2 @@
-# curly-palm-tree
+# Coursera_Capstone
 Capstone project
